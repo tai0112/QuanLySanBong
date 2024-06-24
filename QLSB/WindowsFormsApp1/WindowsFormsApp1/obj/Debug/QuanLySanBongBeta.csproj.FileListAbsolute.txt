@@ -1,0 +1,112 @@
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.AssemblyReference.cache
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachHang.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.GenerateResource.cache
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CoreCompileInputs.cache
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CopyComplete
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoaiSan.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDichVu.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dtgvThueSan.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHoaDon.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaoTK.resources
+C:\Users\tai02\Documents\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.AssemblyReference.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDichVu.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHoaDon.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoaiSan.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachHang.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaoTK.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dtgvThueSan.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.GenerateResource.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CoreCompileInputs.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sonda\OneDrive\Documents\Css\Cs\qlsb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CopyComplete
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.AssemblyReference.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDichVu.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHoaDon.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoaiSan.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachHang.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaoTK.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThongKeDoanhThu.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dtgvThueSan.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.GenerateResource.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CoreCompileInputs.cache
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CopyComplete
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sonda\OneDrive\Documents\Css\Cs\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.AssemblyReference.cache
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDichVu.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHoaDon.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoaiSan.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachHang.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaoTK.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThongKeDoanhThu.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dtgvThueSan.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.GenerateResource.cache
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CoreCompileInputs.cache
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CopyComplete
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Desktop\New folder (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.AssemblyReference.cache
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDichVu.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHoaDon.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoaiSan.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachHang.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaoTK.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThongKeDoanhThu.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dtgvThueSan.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.GenerateResource.cache
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CoreCompileInputs.cache
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySanBongBeta.csproj.CopyComplete
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tai02\Desktop\Final BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
